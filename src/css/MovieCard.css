@@ -15,7 +15,7 @@
 
 .movie-poster {
   position: relative;
-  aspect-ratio: 2/3;
+  aspect-ratio: 3/4;
   width: 100%;
 }
 
@@ -92,8 +92,9 @@
 }
 
 .movie-info h3 {
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin: 0;
+  color: #999;
 }
 
 .movie-info p {
